@@ -18,7 +18,8 @@
 - Founder of Neyra - The Learning Platform 
 - Passionate aspiring developer with a very deep interest in AI and Ethical hacking  
 - Turning ideas into futuristic apps, AI tools, and interactive games  
-- Strong focus on innovation, cybersecurity, and digital empowerment  
+- Strong focus on innovation, cybersecurity, and digital empowerment
+- Check Portfolio - https://aryxnkumar.github.io/Portfolio/
 
 ---
 
